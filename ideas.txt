@@ -13,3 +13,58 @@ Relevant tools:
   nltk.twitter: http://www.nltk.org/howto/twitter.html
     Looks to require twython, and registering with Twitter as a bot.
   
+Identify fans vs haters of figures.
+
+Also rank tweets so that we see top 100 most supportive???
+
+Retweets are also comments
+
+So dig through both retweets and comments
+
+
+Our proposal is to iterate through a hashtag, then rank how supportive or opposed to that topic tweets are.
+
+Then we want to classify by how divergent from the topic people are.
+
+Need to define the math of how we are classifying.
+
+
+Three parts:
+
+1: Get tweets by hashtag, including front end for user.
+	Stretch goal: look at specific popular threads?
+
+2: Classification - pro/anti, stretch goal for other opinions
+	Include apathy
+
+3: Ranking
+	Find who the most enthusiastic supporters/opponents of a topic are on the hashtag or thread
+
+
+Maybe add a classification of hotness.
+
+
+
+Hashtag 
+Support
+Biggest fan
+
+Fanantics
+
+Fanatic
+
+Warbler
+
+Class... Class... 
+
+Disparity
+	Semantics of support and opposition on Twitter
+
+hashtag#Pro#Anti
+
+
+
+
+
+
+
