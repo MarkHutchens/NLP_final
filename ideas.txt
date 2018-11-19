@@ -1,0 +1,15 @@
+Something to do with twitter and sentiment.
+
+Input: A hashtag or subject
+	Use wordnet to broaden search???
+
+Thesaurize things?
+
+Want to be able to label a new tweet as being positive or negative.
+
+Relevant tools:
+  WordNet for synonyms and meaning
+  At least a Naive Bayes classifier
+  nltk.twitter: http://www.nltk.org/howto/twitter.html
+    Looks to require twython, and registering with Twitter as a bot.
+  
